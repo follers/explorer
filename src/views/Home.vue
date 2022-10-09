@@ -7,7 +7,7 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-           Fexp Dashboard<small class="flow-left">Beta</small>
+           Fexp Dashboard
         </h1>
       </div>
     </b-link>
@@ -15,7 +15,7 @@
     <p class="mb-1">
       fexp is your explorer 
     </p>
-    
+    <p></p>
     <div>
       <b-row class="match-height">
         <b-col
