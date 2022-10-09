@@ -13,10 +13,10 @@
     </b-link>
 
     <p class="mb-1">
-      Fexp Dashboard is not just an explorer but also a wallet and more ... 🛠
+      this is your explorer�
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains 🚀
+      
     </h2>
 
     <div>
