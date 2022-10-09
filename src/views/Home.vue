@@ -13,12 +13,9 @@
     </b-link>
 
     <p class="mb-1">
-      this is your explorer 
+      fexp is your explorer 
     </p>
-    <h2 class="mb-3">
-      
-    </h2>
-
+    
     <div>
       <b-row class="match-height">
         <b-col
