@@ -13,7 +13,7 @@
     </b-link>
 
     <p class="mb-1">
-      fexp is your explorer 
+      fexp is your explorer
     </p>
     <p></p>
     <div>
